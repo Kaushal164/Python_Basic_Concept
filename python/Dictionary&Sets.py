@@ -1,7 +1,7 @@
 info = {
     "key":"value",
     "name":"kaushal",
-    "learning":"coding", #we can include any data type(float in key too) in dictinoary or array and lsit to and tuple too
+    "learning":"coding", #we can include any data type(float in key too)in dictinoary or array and lsit to and tuple too
     "age" : 35,
 }
 print(info)
