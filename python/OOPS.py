@@ -1,4 +1,3 @@
-#OOP in python 
 #OOP stands for Object Oriented Programming. It is a programming paradigm that uses objects and classes to organize code.
 #In OOP, we can create objects that have properties and methods. Properties are the attributes of the object, while methods are the functions that can be performed on the object.
 #In python, we can create a class using the class keyword. A class is a blueprint for creating objects. We can create an object from a class by calling the class as a function.
